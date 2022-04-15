@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/drawable-v24/dw_login_button_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/drawable-v24/ic_google.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/drawable/first.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/drawable/ic_et_back.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/drawable/ic_mail.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_analytics.xml" value="0.234375" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_dash.xml" value="0.264" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_disease.xml" value="0.25" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_drone_shots.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_login.xml" value="0.3256113256113256" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_login_user.xml" value="0.483695652173913" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_plant_list.xml" value="0.4" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/dialog_loading.xml" value="0.25" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/rv_captures.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/Jhony Dev/AndroidStudioProjects/DroneProject/app/src/main/res/layout/rv_plants.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
